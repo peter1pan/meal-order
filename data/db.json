@@ -1,0 +1,14 @@
+{
+  "burger": [
+    {
+      "id": 1,
+      "title": "Hamburger",
+      "price":90
+    },
+    {
+      "id": 2,
+      "title": "Hamburger2",
+      "price":65
+    }
+  ]
+}

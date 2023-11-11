@@ -1,0 +1,23 @@
+$main-font: "Poppins", sans-serif;
+$base-color: #f0f0f0;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: $main-font;
+    background-color: $base-color;
+
+    font-weight: 700;
+    a {
+        color: white;
+        text-decoration: none;
+    }
+    button{
+        border: none;
+       color: white;
+       font-family: 'Courier New', Courier, monospace;
+       background-color: black;
+    }
+}

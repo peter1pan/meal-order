@@ -1,0 +1,26 @@
+.total-meals-price {
+    background-color: #f77548;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+    color: white;
+    .meals-details-div {
+        display: flex;
+        justify-content: space-around;
+        button {
+            cursor: pointer;
+        }
+    }
+}
+
+.sepet-meals-details-div {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    font-size: 18px;
+    background-color: #f77548;
+    border: 1px solid white;
+    color: white;
+}

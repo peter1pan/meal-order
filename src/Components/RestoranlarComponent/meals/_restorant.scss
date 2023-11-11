@@ -1,0 +1,14 @@
+.restorants-div {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    .img-div {
+        width: 100px;
+        height: 50px;
+        background-color: black;
+    }
+    span {
+        color: black;
+    }
+}
+

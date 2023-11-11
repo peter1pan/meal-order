@@ -1,0 +1,14 @@
+.nav-section {
+    .NavLink {
+        background-color: #f77548;
+        width: 100%;
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+        a {
+            text-decoration: none;
+            margin: 0.5rem;
+            color: white;
+        }
+    }
+}

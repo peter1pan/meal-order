@@ -1,0 +1,25 @@
+.footer {
+    background-color: #252525;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    .social-media {
+        i {
+            color: #fc7b1f;
+            padding: 2rem;
+        }
+    }
+    .logo-image-div {
+        margin: 1rem;
+        .logo-image {
+            width: 100px;
+            height: 70px;
+        }
+    }
+
+    span {
+        color: white;
+    }
+}
